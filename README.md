@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 Summary  
-Data Engineer con 4+ años de experiencia diseñando pipelines ETL, implementando soluciones en la nube (Azure) y desarrollando dashboards estratégicos. Especializado en integración de datos, optimización de procesos y análisis avanzado con herramientas como Power BI y Databricks. Certificado en Big Data y metodologías ágiles.
+Data Engineer con 4+ años de experiencia diseñando pipelines ETL, implementando soluciones en la nube (Azure) y desarrollando dashboards estratégicos. Especializado en integración de datos, optimización de procesos y análisis avanzado con herramientas como Power BI y Databricks.
 
 ---
 
@@ -61,7 +61,7 @@ _Avellaneda, Buenos Aires_
 
 **Licenciatura en Sistemas**  
 *UNLa (2015 - En curso)*  
-- 35 materias aprobadas | Énfasis en ingeniería de datos  
+- 35 materias aprobadas
 
 ---
 
