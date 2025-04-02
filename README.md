@@ -1,7 +1,7 @@
 # Mauro Pereyra  
 **Data Engineer**  
 📍 Buenos Aires, Argentina  
-💼 [LinkedIn]([https://linkedin.com/in/tuperfil](https://www.linkedin.com/in/mauro-pereyra-762aba116) | 🐱 [GitHub](https://github.com/MauroLucas)
+💼 [LinkedIn](https://www.linkedin.com/in/mauro-pereyra-762aba116) | 🐱 [GitHub](https://github.com/MauroLucas)
 
 ---
 
